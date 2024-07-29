@@ -1,0 +1,9 @@
+"""
+
+have image load into CV
+dynamically draw circles around each spot on image
+save circle coords and pass over to grayscale image 
+read grayscale values of circle per image and monitor for substantial changes
+print out time stamp of each change
+
+"""
